@@ -4,3 +4,6 @@
 [submodule "tools/xpwn"]
 	path = tools/xpwn
 	url = https://github.com/planetbeing/xpwn
+[submodule "tools/open-source-machlib"]
+	path = tools/open-source-machlib
+	url = https://github.com/raresvis/open-source-machlib
